@@ -5,12 +5,12 @@ void main() {
   runApp(const MaterialApp(
     debugShowCheckedModeBanner: false,
     title: "MOS",
-    home: MyStepperDemo(),
+    home: MyApp(),
   ));
 }
 
-class MyStepperDemo extends StatelessWidget {
-  const MyStepperDemo({super.key});
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
