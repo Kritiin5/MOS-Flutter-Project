@@ -1,7 +1,4 @@
 # fluttertrial1 <br>
-*Name:* Kriti Bhattacharya <br>
-*UID & Roll No:* 225049, 32 <br>
-*Class:* SY BSc IT <br>
 
 
 **Description:**  <br>
